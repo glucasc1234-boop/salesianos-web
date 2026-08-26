@@ -321,6 +321,15 @@ a:focus-visible, button:focus-visible{
 .cta-band h2{ color:#fff; font-size: 2rem; font-style:italic; margin-bottom: 0.8rem; }
 .cta-band p{ color: rgba(255,255,255,0.85); margin-bottom: 1.8rem; }
 
+.donate-widget{
+  max-width: 480px;
+  margin: 0 auto;
+  background: var(--paper);
+  border-radius: var(--radius);
+  overflow: hidden;
+  padding: 0.5rem;
+}
+
 /* ==========================================================
    FOOTER
    ========================================================== */
